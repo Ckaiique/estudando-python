@@ -1,4 +1,4 @@
-print('Escreva um programa que leia a quandade de dias,horas, minutos e segundos do usuario. Calcule o toral em segundos.')
+print('Escreva um programa que leia a quantidade de dias,horas, minutos e segundos do usuario. Calcule o toral em segundos.')
 
 dias = float(input('Digite a  quantidade de dias:'))
 horas = float(input('Digite a  quantidade de Horas:'))
