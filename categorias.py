@@ -1,3 +1,4 @@
+# Programa categoria x preço
 categoria = int(input("Digite a categoria do produto:"))
 if categoria == 1:
     preço = 10
@@ -14,6 +15,6 @@ else:
                 if categoria == 5 :
                     preço = 31
                 else:
-                    print("Categoria invalida, digite um valor entre 1 e 5")
+                    print("Categoria invalida, digite um valor entre 1 e 5!")
                     preço = 0
 print(f'O preço do produto é : R${preço:6.2f}')    
